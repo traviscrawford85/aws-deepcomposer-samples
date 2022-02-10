@@ -1,7 +1,7 @@
 pypianoroll==0.5.3
 music21==5.7.2
 texttable==1.6.2
-tensorflow-gpu==2.4.1
+tensorflow-gpu==2.5.3
 pyFluidSynth
 fluidsynth
 midi2audio
